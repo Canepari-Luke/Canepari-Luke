@@ -15,4 +15,4 @@ I'm an aspiring game developer with a passion for writing, world-building, and c
 
 - 📫 **Connect With Me:**  
   - [LinkedIn](https://www.linkedin.com/in/luke-canepari-39a4aa262/)  
-  - [Portfolio Website](https://canepari-luke.github.io/Portfolio-Website/) 
+  - [Portfolio Website](https://canepari-luke.github.io/portfolio-website/) 
