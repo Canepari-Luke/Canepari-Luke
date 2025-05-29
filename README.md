@@ -2,7 +2,7 @@
 
 I'm an aspiring game developer with a passion for writing, world-building, and creating fun, memorable multiplayer experiences!
 
-- 🔭 **Currently Working On:** I'm using GameMaker Studio to build a game project called **The Logos Anomaly**, A 2D top down survival RPG with a sci-fi horror/thriller setting. I'm hoping to soon release a free demo meant to showcase the core gameplay before I start working on the prologue.
+- 🔭 **Currently Working On:** I'm using **GameMaker Studio** to build a game project called **The Logos Anomaly**, A 2D top down survival RPG with a sci-fi horror/thriller setting. I'm hoping to soon release a free demo meant to showcase the core gameplay before I start working on the prologue.
 
 - 🏆 **Recent Achievement:** I've recently graduated with a **Bachelor’s degree in English** and a **minor in Computer Programming**.
   
